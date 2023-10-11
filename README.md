@@ -8,6 +8,8 @@
 2. 安装所需的依赖库（如果有的话）。
 3. 运行脚本，它将提示你提供必要的信息。
 4. 脚本将生成一个ICS文件，包含了你的学期课程。
+5. 将ics文件使用手机日历打开, 可以将课程导入到手机日历程序上
+![63397E130C2A0849365A54D2C89BE0BB](https://github.com/zhangzhe197/China-University-of-Petroleum-East-China-obtains-course-schedule/assets/118900381/ee2bc4a0-42d0-4080-88b3-a169ae5e2050)
 
 ## 输出结果
 
